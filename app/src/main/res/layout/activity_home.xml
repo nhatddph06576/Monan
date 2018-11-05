@@ -26,18 +26,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:paddingTop="20dp">
-        <ImageButton
+        android:paddingTop="60dp">
+        <ImageView
             android:layout_width="match_parent"
             android:layout_height="150dp"
             android:src="@drawable/bia1"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="150dp"
-            android:src="@drawable/bia1"/><ImageView
-        android:layout_width="match_parent"
-        android:layout_height="150dp"
-        android:src="@drawable/bia1"/>
+            android:src="@drawable/bia1"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/bia1"/>
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="150dp"

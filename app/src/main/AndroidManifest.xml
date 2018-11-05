@@ -19,8 +19,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HomeActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".HomeActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ThucDon70kActivity" />
+        <activity android:name=".ThucDon50kActivity" />
+        <activity android:name=".MonChayActivity"></activity>
     </application>
 
 </manifest>
